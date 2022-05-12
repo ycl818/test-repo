@@ -1,2 +1,2 @@
 #include "Monster.h"
-int masterfunction() {}
+int hahaha() {}
